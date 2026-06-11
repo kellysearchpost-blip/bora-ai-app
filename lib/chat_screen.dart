@@ -21,7 +21,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final ScrollController _scrollController = ScrollController();
   
   // API Configuration
-  final String _groqApiKey = "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";
+  final String _groqApiKey = "YOUR_GROQ_API_KEY_HERE";
   final String _model = "llama-3.3-70b-versatile";
   
   // State variables
